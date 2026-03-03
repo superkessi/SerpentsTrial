@@ -1,0 +1,32 @@
+extends PlayerState
+
+func enter(previous_state, data := {}):
+	player.anim.play("player_idle")
+	player.petrify_laser.enable_raycast(true)
+
+func physics_update(_delta: float) -> void:
+<<<<<<< working copy
+	if !player.is_grounded() && !player.is_on_floor():
+		player.velocity.y += player.gravity * _delta
+		player._move(_delta, player.speed)
+
+=======
+	player.velocity.y += player.gravity * _delta
+	player._move(_delta, player.speed)
+	
+	if player.is_dead == true:
+		finished.emit(DEAD)
+>>>>>>> merge rev
+	if Input.is_action_just_pressed("jump") and player.is_on_floor():
+		finished.emit(JUMP)
+	elif (Input.get_action_strength("walk_right") - Input.get_action_strength("walk_left")) != 0:
+		finished.emit(WALK)
+	elif Input.is_action_just_pressed("interact") && player.interactable != null:
+		finished.emit(INTERACT)
+	elif Input.is_action_just_pressed("attack") && player.shots >=1:
+		finished.emit(ATTACK)
+	elif Input.is_action_just_pressed("push"):
+		player.update_push_object()
+		if player.push_object != null:
+			finished.emit(PUSH)
+	
