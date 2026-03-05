@@ -2,10 +2,10 @@
 
 [ext_resource type="Script" path="res://Scripts/UI/Menus/pause_menu.gd" id="1_moxoh"]
 [ext_resource type="FontFile" uid="uid://dy38kvvl78usv" path="res://Assets/Sprites/UI/Font/CaesarDressing-Regular.ttf" id="2_cw85i"]
-[ext_resource type="Texture2D" uid="uid://3kg4n2bcck21" path="res://Assets/Sprites/UI/pause_menu/UI_pause_menu_polishedV3.png" id="2_ua36h"]
-[ext_resource type="Theme" uid="uid://t8m20x0yt8ss" path="res://button_style.tres" id="3_4udtg"]
-[ext_resource type="StyleBox" uid="uid://reb2767wns1u" path="res://selector.tres" id="5_mfjle"]
-[ext_resource type="StyleBox" uid="uid://dpoh6y53ole7r" path="res://Scenes/UI/selector_pause_menu.tres" id="5_ups86"]
+[ext_resource type="Texture2D" uid="uid://dlbn1qkll6vwi" path="res://Assets/Sprites/UI/pause_menu/UI_pause_menu_polishedV3.png" id="2_ua36h"]
+[ext_resource type="Theme" uid="uid://t8m20x0yt8ss" path="res://Assets/Other/button_style.tres" id="3_4udtg"]
+[ext_resource type="StyleBox" uid="uid://reb2767wns1u" path="res://Assets/Other/selector.tres" id="5_mfjle"]
+[ext_resource type="StyleBox" path="res://Scenes/UI/selector_pause_menu.tres" id="5_ups86"]
 
 [node name="Pause_Menu" type="Control"]
 layout_mode = 3

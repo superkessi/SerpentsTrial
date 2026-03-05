@@ -1,8 +1,8 @@
 [gd_scene load_steps=17 format=3 uid="uid://ev54brnvpq8o"]
 
 [ext_resource type="Script" path="res://Scripts/Character/Player/Player_laser.gd" id="1_4n8b0"]
-[ext_resource type="Texture2D" uid="uid://g0ngu2t8ryh0" path="res://Assets/Sprites/VFX/texture_vfx_laser_dotted_line_v2.png" id="2_evy5o"]
-[ext_resource type="Texture2D" uid="uid://dhyhw6npft145" path="res://Assets/Sprites/VFX/glowing_cirlce.png" id="3_uaa6d"]
+[ext_resource type="Texture2D" uid="uid://wdwimxt248bg" path="res://Assets/Sprites/VFX/texture_vfx_laser_dotted_line_v2.png" id="2_evy5o"]
+[ext_resource type="Texture2D" uid="uid://d3xli4vp45tcv" path="res://Assets/Sprites/VFX/glowing_cirlce.png" id="3_uaa6d"]
 
 [sub_resource type="Curve" id="Curve_ufybf"]
 _data = [Vector2(0, 6.15385), 0.0, 0.0, 0, 0, Vector2(1e-05, 0.571429), 0.0, 0.0, 0, 0, Vector2(1, 0.043956), 0.0, 0.0, 0, 0]

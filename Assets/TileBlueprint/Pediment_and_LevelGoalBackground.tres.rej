@@ -1,0 +1,10 @@
+--- Pediment_and_LevelGoalBackground.tres
++++ Pediment_and_LevelGoalBackground.tres
+@@ -1,6 +1,6 @@
+ [gd_resource type="TileSet" load_steps=10 format=3 uid="uid://dbvp58g48enl1"]
+ 
+-[ext_resource type="Texture2D" uid="uid://c241rnius378h" path="res://Assets/Sprites/Tiles/tile_atlas_v5.png" id="1_h6ky8"]
++[ext_resource type="Texture2D" uid="uid://cynygl8p0liln" path="res://Assets/Sprites/Tiles/tile_atlas_v5.png" id="1_h6ky8"]
+ 
+ [sub_resource type="OccluderPolygon2D" id="OccluderPolygon2D_b5mmm"]
+ polygon = PackedVector2Array(-16, 6.5, 16, -8.75, 16, 16, -16, 16)

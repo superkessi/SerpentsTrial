@@ -10,10 +10,14 @@ config_version=5
 
 [application]
 
-config/name="Semesterprojekt_Team2"
+config/name="SerpentsTrial"
 run/main_scene="res://Scenes/UI/Intro.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://Assets/Sprites/game_iconV2.png"
+
+[audio]
+
+buses/default_bus_layout="res://Assets/Other/default_bus_layout.tres"
 
 [autoload]
 

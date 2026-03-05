@@ -1,0 +1,10 @@
+--- tile_atlas_blueprint_collider_occluder.tres
++++ tile_atlas_blueprint_collider_occluder.tres
+@@ -1,6 +1,6 @@
+ [gd_resource type="TileSet" load_steps=74 format=3 uid="uid://cpbpwg3q3puq7"]
+ 
+-[ext_resource type="Texture2D" uid="uid://bikp14gfq72o5" path="res://Assets/Sprites/Tiles/tile_atlas_v3.3.png" id="1_5f8c4"]
++[ext_resource type="Texture2D" uid="uid://b6npwuiw8wv8f" path="res://Assets/Sprites/Tiles/tile_atlas_v3.3.png" id="1_5f8c4"]
+ 
+ [sub_resource type="OccluderPolygon2D" id="OccluderPolygon2D_mufo5"]
+ polygon = PackedVector2Array(-16, -16, 16, -16, 16, 16, -16, 16)

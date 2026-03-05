@@ -16,6 +16,7 @@ level_transition = NodePath("Level_Transition")
 tooltip_open_time = 0.1
 
 [node name="Scene_loader" parent="." instance=ExtResource("2_dhkbn")]
+script = null
 
 [node name="UI_Main" parent="." instance=ExtResource("3_5yygm")]
 
