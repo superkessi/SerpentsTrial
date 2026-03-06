@@ -24,7 +24,10 @@ Serpent's Trial was developed as a **10 week** long, student project at [**Schoo
 
 Play it [here](https://s4g.itch.io/serpents-trial)
 
----
+&nbsp;
+<div align="center">
+ꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙ
+</div>
 
 ## My Responsibilities
 
@@ -35,8 +38,11 @@ My main contributions include:
 - Implemented an **Interaction systems** to push/pull petrified enemys
 - Developing a **Menu Stack** system to allow easier travel, while clicking through menus
 
+&nbsp;
+<div align="center">
+ꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙ
+</div>
 
----
 ## Highlights
 
 ### Player  
