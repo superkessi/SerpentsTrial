@@ -14,7 +14,9 @@
 Serpent's Trial was developed as a **10 week** long, student project at [**School4Games**](https://www.school4games.net) in early 2025. 
 
 **Engine     :** Godot 4.3
+
 **Tools        :** Mercurial (Version Control)
+
 **Team size :** 7 full time (1 producer, 1 game designer, 2 engineers, 3 artists)
 
 Play it [here](https://s4g.itch.io/serpents-trial)
