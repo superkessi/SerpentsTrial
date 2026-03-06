@@ -28,7 +28,7 @@ Play it [here](https://s4g.itch.io/serpents-trial)
 
 ## My Responsibilities
 
-I was one of two engineers working on Serpent's Trial. I was primarily responsible for  the core architecture, and the player and the enemy controller, while my [co-engineer](https://github.com/AnubisDev161) was more focused on the main mechanic (the petrifying laser), and how the player uses it to interact with the world.
+I was one of [two](https://github.com/AnubisDev161) engineers working on Serpent's Trial. I was primarily responsible for  the core architecture, and the player and the enemy controller, while my co-engineer was more focused on the main mechanic (the petrifying laser), and how the player uses it to interact with the world.
 
 My main contributions include: 
 - Building the **Player & Enemy controller** and their **state machines**
