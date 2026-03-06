@@ -1,15 +1,18 @@
 <img width="1200" height="400" alt="serpentsTrial_git_banner" src="https://github.com/user-attachments/assets/f391cf55-b050-41b0-968e-66fd8637284a"/>
 
-## Overview
+<div align="center">
 
 **Serpent's trial is a puzzle platformer in a Greek mythology-inspired setting, where the player controls a Gorgon.**
 
 **He can use a petrification ability to turn enemies into stone and move them around to reach new areas or solve puzzles.**
 
-<p align="center">
-	<img alt="serpentsTrial_gameplay" src="https://github.com/user-attachments/assets/79a7746c-7148-48fc-b177-611bbf21333e">
-</p>
+ꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙ
 
+<img alt="serpentsTrial_gameplay" src="https://github.com/user-attachments/assets/79a7746c-7148-48fc-b177-611bbf21333e">
+
+ꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙꡙ
+</div>
+&nbsp;
 
 Serpent's Trial was developed as a **10 week** long, student project at [**School4Games**](https://www.school4games.net) in early 2025. 
 
